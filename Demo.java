@@ -5,5 +5,6 @@ public class Demo {
         int c;
         c=a+b;
         System.out.println(c);
+        int k=123;
     }
 }
