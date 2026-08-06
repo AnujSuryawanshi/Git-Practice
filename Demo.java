@@ -5,9 +5,5 @@ public class Demo {
         int c;
         c=a+b;
         System.out.println(c);
-<<<<<<< HEAD
-        String s="ANUJ";
-=======
->>>>>>> parent of 6095ded (String value)
     }
 }
