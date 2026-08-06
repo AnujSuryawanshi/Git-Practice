@@ -5,6 +5,6 @@ public class Demo {
         int c;
         c=a+b;
         System.out.println(c);
-        String s="My Name Is Anuj";
+        String s="ANUJ";
     }
 }
