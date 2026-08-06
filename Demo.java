@@ -15,5 +15,8 @@ public class Demo {
         int c;
         c=a+b;
         System.out.println(c);
+
+        int x=1;
+        int y=2;
     }
 }
