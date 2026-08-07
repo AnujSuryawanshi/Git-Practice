@@ -18,5 +18,9 @@ public class Demo {
 
         int x=1;
         int y=2;
+        int z=x+y;
+
+        String name="Anuj";
+        String gender="Male";
     }
 }
