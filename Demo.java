@@ -22,5 +22,8 @@ public class Demo {
 
         String name="Anuj";
         String gender="Male";
+
+       int d=23;
+       int e=45;
     }
 }
